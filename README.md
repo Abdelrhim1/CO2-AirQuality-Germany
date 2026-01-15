@@ -11,12 +11,14 @@ It demonstrates a complete end-to-end data analytics workflow with Power BI, hig
 ## Data Sources
 - Our World in Data (CO₂ emissions) (https://ourworldindata.org/co2-and-greenhouse-gas-emissions) 
 ## Tools & Skills
+
 | Category           | Tools                                |
 | ------------------ | ------------------------------------ |
 | BI & Visualization | Power BI                        |
 | Data Preparation   | Power BI Query Editor                |
 | Analysis           | Time-series trends, KPI calculations |
 | Version Control    | **GitHub**                           |
+
 ## Dashboard Overview
 Below are snapshots of the final dashboard:
 - Full dashboard view
