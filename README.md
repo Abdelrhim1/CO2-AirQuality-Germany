@@ -34,11 +34,11 @@ CO₂ per capita also shows a downward trend, indicating reductions in emissions
 Despite population changes, emissions have declined, reflecting efficiency and policy improvements.
 ## Project Structure
 CO2-AirQuality-Germany/
-├── data/                     # Raw/clean data (if added later)
-├── screenshots/              # Dashboard images
+├── data/ # Raw/clean data
+├── screenshots/ # Dashboard images
 │   ├── dashboard_overview.png
 │   └── kpi_summary.png
-├── README.md                 # Project documentation (this file)
+├── README.md # Project documentation (this file)
 ## How to Use the Dashboard
 1. Open the .pbix file (Power BI Desktop)
 2. Interact with the Year slicer
